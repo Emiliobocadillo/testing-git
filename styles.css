@@ -1,0 +1,10 @@
+body {
+  background: blue;
+}
+h1 {
+  text-transform: capitalize;
+  color: white;
+  text-align: center;
+  /* background: lightblue; */
+  /* margin: 0 240px; */
+}
